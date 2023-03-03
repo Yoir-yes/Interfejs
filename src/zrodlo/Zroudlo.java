@@ -1,4 +1,4 @@
 package zrodlo;
 
-public interface Zroudlo {
+public interface Zroudlo { void grzej();
 }

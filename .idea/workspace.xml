@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffc29ef-a63d-40d3-9a19-5199194d3b3e" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/src/zrodlo/PiecElektryczny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zrodlo/PiecGazowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zrodlo/PiecWeglowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zrodlo/PompaCiepla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zrodlo/Zroglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zrodlo/PiecElektryczny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zrodlo/PiecElektryczny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zrodlo/PiecGazowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zrodlo/PiecGazowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zrodlo/PiecWeglowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zrodlo/PiecWeglowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zrodlo/PompaCiepla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zrodlo/PompaCiepla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zrodlo/Zroudlo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zrodlo/Zroudlo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677841389600</updated>
-      <workItem from="1677841391117" duration="384000" />
+      <workItem from="1677841391117" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1677841487521</created>
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677841487521</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First">
+      <created>1677841825344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677841825344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

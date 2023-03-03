@@ -1,4 +1,8 @@
 package zrodlo;
 
-public class PiecGazowy {
+public class PiecGazowy implements Zroudlo{
+    @Override
+    public void grzej() {
+        System.out.println("Grzeje gazem");
+    }
 }
