@@ -1,7 +1,8 @@
 package zrodlo;
 
-public class PiecWeglowy implements Zroudlo{
-    @Override
+import zrodlo.piec.Piec;
+
+public class Kominek extends Piec implements Zroudlo {
     public void grzej() {
         System.out.println("Grzeje drewnem");
     }
